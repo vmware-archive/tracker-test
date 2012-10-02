@@ -8,7 +8,6 @@ and more
 
 remember to put the comment in [#5512 brackets]
 
-why aren't I getting a msg?
-
+remember to check the token in the github repository - see the API help, you click on admin, hooks and pivotal tracker
 
 
